@@ -6,8 +6,7 @@
    <STARTING_FOLDER>/lbn-gtt-template-tpo/abap/zsrc/</STARTING_FOLDER>
    <STARTING_FOLDER>/</STARTING_FOLDER>
    <FOLDER_LOGIC>FULL</FOLDER_LOGIC>
-   <IGNORE>
-    <item>/.abapgit.xml</item>
+   <IGNORE>    
     <item>/.gitignore</item>
     <item>/LICENSE</item>
     <item>/README.md</item>
